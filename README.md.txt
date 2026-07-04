@@ -2,7 +2,9 @@
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+## Dashboard Preview
+
+<img src="dashboard.png" width="900">
 
 ---
 
