@@ -1,6 +1,8 @@
 ## Dashboard Preview
 
-![Dashboard](https://github.com/IMSSK30/Sales-Performance-Dashboard/blob/main/dashboard.png?raw=true)
+## Dashboard Preview
+
+![Dashboard](https://raw.githubusercontent.com/IMSSK30/Sales-Performance-Dashboard/main/dashboard.png)
 
 # Sales Performance Dashboard
 
