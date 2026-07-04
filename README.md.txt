@@ -1,6 +1,6 @@
 ## 📊 Dashboard Preview
 
-![Dashboard](Screenshots/dashboard.png)
+dashboard.png.png
 
 # Sales Performance Dashboard
 
