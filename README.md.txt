@@ -106,4 +106,5 @@ It is about understanding the data and finding useful information that can help 
 This project gave me practical experience in working with real business data.
 I completed the entire process, from cleaning the data to creating an interactive dashboard.
 
-It improved my confidence in Excel, SQL, and Power BI and helped me understand how data can be used to answer business questions. This project is an important part of my Data Analytics portfolio, and it reflects the skills I have learned through practice.
+It improved my confidence in Excel, SQL, and Power BI and helped me understand how data can be used to answer business questions. 
+This project is an important part of my Data Analytics portfolio, and it reflects the skills I have learned through practice.
