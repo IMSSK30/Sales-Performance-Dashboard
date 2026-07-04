@@ -1,8 +1,6 @@
 ## Dashboard Preview
 
-## Dashboard Preview
-
-![Dashboard](https://raw.githubusercontent.com/IMSSK30/Sales-Performance-Dashboard/main/dashboard.png)
+<img src="dashboard.png" width="800"/>
 
 # Sales Performance Dashboard
 
