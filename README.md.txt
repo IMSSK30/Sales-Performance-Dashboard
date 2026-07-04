@@ -2,7 +2,8 @@
 
 ## Project Overview
 
-This is my first end-to-end Data Analytics project. In this project, I worked on a retail sales dataset and created an interactive Sales Performance Dashboard using Excel, MySQL, and Power BI.
+This is my first end-to-end Data Analytics project. 
+In this project, I worked on a retail sales dataset and created an interactive Sales Performance Dashboard using Excel, MySQL, and Power BI.
 
 The main purpose of this project was to understand how raw data can be cleaned, analyzed, and converted into useful business insights.
 
@@ -71,7 +72,8 @@ This project helped me understand the complete workflow of a Data Analyst.
 
 I learned how to clean data, write SQL queries, create KPIs, use DAX measures, and build an interactive dashboard in Power BI.
 
-I also learned that data analysis is not only about creating charts. It is about understanding the data and finding useful information that can help in making business decisions.
+I also learned that data analysis is not only about creating charts. 
+It is about understanding the data and finding useful information that can help in making business decisions.
 
 ---
 
@@ -101,6 +103,7 @@ I also learned that data analysis is not only about creating charts. It is about
 
 ## Conclusion
 
-This project gave me practical experience in working with real business data. I completed the entire process, from cleaning the data to creating an interactive dashboard.
+This project gave me practical experience in working with real business data.
+I completed the entire process, from cleaning the data to creating an interactive dashboard.
 
 It improved my confidence in Excel, SQL, and Power BI and helped me understand how data can be used to answer business questions. This project is an important part of my Data Analytics portfolio, and it reflects the skills I have learned through practice.
